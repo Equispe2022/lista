@@ -16,7 +16,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="INGENIO TV.jpg" group-title="TV ABIERTA",AZTECA 7
-https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/29_.m3u8?token=Eb7JZm4m8Q_SXqh7adD4VA&expires=1659163066&ip=190.129.180.170
+https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/track_1_500/playlist.m3u8
 
 #EXTINF:-1,SEO HD_ch15
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
